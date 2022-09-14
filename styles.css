@@ -74,6 +74,8 @@ body {
   color: white;
   text-align: center;
   padding: 2rem;
+  top: 50%;
+  left: 50%;
 }
 #show-time{
   text-align: center;
