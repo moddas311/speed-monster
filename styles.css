@@ -9,6 +9,7 @@ body {
   background-size: cover;
   background-position: left top;
   font-family: "Zilla Slab", serif;
+  margin-bottom: 25px;
 }
 
 .box-container {
